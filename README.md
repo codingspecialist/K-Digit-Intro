@@ -40,8 +40,8 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420100004080.png"></td>
-        <td><img src="C:\Users\ssarm\Desktop\images\image-20230420095934366.png"></td>
+    	<td><img src="image-20230420100004080.png"></td>
+        <td><img src="image-20230420095934366.png"></td>
     </tr>
 </table>
 
@@ -51,13 +51,13 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420100835279.png" height="300px" width="100%"></td>
+    	<td><img src="image-20230420100835279.png" height="300px" width="100%"></td>
     </tr>
     <tr>
-		<td><img src="C:\Users\ssarm\Desktop\images\image-20230420100856980.png" height="500px" width="100%"></td>
+		<td><img src="image-20230420100856980.png" height="500px" width="100%"></td>
     </tr>
         <tr>
-        <td><img src="C:\Users\ssarm\Desktop\images\image-20230420101103307.png" height="300px" width="100%"></td>
+        <td><img src="image-20230420101103307.png" height="300px" width="100%"></td>
     </tr>
 </table>
 
@@ -76,14 +76,14 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420100356828.png" width="100%"></td>
-        <td><img src="C:\Users\ssarm\Desktop\images\image-20230420100422961.png" width="100%"></td>
-        <td><img src="C:\Users\ssarm\Desktop\images\image-20230420100432587.png" width="100%"></td>
+    	<td><img src="image-20230420100356828.png" width="100%"></td>
+        <td><img src="image-20230420100422961.png" width="100%"></td>
+        <td><img src="image-20230420100432587.png" width="100%"></td>
     </tr>
     <tr>
-        <td><img src="C:\Users\ssarm\Desktop\images\image-20230420100412671.png" width="100%"></td>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420100449369.png" width="100%"></td>
-        <td><img src="C:\Users\ssarm\Desktop\images\image-20230420100458019.png" width="100%"></td>
+        <td><img src="image-20230420100412671.png" width="100%"></td>
+    	<td><img src="image-20230420100449369.png" width="100%"></td>
+        <td><img src="image-20230420100458019.png" width="100%"></td>
     </tr>
 </table>
 
@@ -135,7 +135,7 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420102605161.png" height="200px" width="100%"></td>
+    	<td><img src="image-20230420102605161.png" height="200px" width="100%"></td>
         <td>소프트웨어를 테스트하는 방법을 배운다</td>
     </tr>
 </table>
@@ -144,7 +144,7 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420102550620.png" height="200px" width="100%"></td>
+    	<td><img src="image-20230420102550620.png" height="200px" width="100%"></td>
         <td>OAuth2.0 서버를 만드는 방법을 배운다 (카카오,네이버 로그인 같은 것)</td>
     </tr>
 </table>
@@ -153,7 +153,7 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420102540552.png" height="200px" width="100%"></td>
+    	<td><img src="image-20230420102540552.png" height="200px" width="100%"></td>
         <td>팀원과 협업하는 방법에 대해서 배운다 - 재택 근무를 가능하게 해주는 기술</td>
     </tr>
 </table>
@@ -162,7 +162,7 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420102527967.png" height="200px" width="100%"></td>
+    	<td><img src="image-20230420102527967.png" height="200px" width="100%"></td>
         <td>서버, 네트워크 관리자 없이 클라우드의 Iaas, Paas 기술을 사용하여 서버를 운영 및 관리하고 배포하는 방법을 배운다</td>
     </tr>
 </table>
@@ -171,7 +171,7 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420102518946.png" height="200px" width="100%"></td>
+    	<td><img src="image-20230420102518946.png" height="200px" width="100%"></td>
         <td>구글의 Flutter 기술을 배운다. IOS 앱과, Android 앱, 그리고 브라우저 웹, 데스크탑 앱을 하나의 언어로 한번에 개발할 수 있게 해주는 트렌디한 기술이다</td>
     </tr>
 </table>
@@ -184,7 +184,7 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420104632089.png" width="100%"></td>
+    	<td><img src="image-20230420104632089.png" width="100%"></td>
     </tr>
 </table>
 
@@ -194,10 +194,10 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420104902313.png" width="100%"></td>
+    	<td><img src="image-20230420104902313.png" width="100%"></td>
     </tr>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420105342135.png" width="100%"></td>
+    	<td><img src="image-20230420105342135.png" width="100%"></td>
     </tr>    
 </table>
 
@@ -207,16 +207,16 @@
 
 <table>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420105048601.png" width="100%"></td>
+    	<td><img src="image-20230420105048601.png" width="100%"></td>
     </tr>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420105145198.png" width="100%"></td>
+    	<td><img src="image-20230420105145198.png" width="100%"></td>
     </tr>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420105230063.png" width="100%"></td>
+    	<td><img src="image-20230420105230063.png" width="100%"></td>
     </tr>
     <tr>
-    	<td><img src="C:\Users\ssarm\Desktop\images\image-20230420104959237.png" width="100%"></td>
+    	<td><img src="image-20230420104959237.png" width="100%"></td>
     </tr>
 </table>
 
