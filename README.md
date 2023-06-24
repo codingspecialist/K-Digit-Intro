@@ -34,10 +34,11 @@
 
 <table>
     <tr>
-    	<td><img src="image-20230420100004080.png"></td>
-        <td><img src="image-20230420095934366.png"></td>
+    	<td><img src="images/image-20230420100004080.png"></td>
+        <td><img src="images/image-20230420095934366.png"></td>
     </tr>
 </table>
+
 
 
 
@@ -45,15 +46,16 @@
 
 <table>
     <tr>
-    	<td><img src="image-20230420100835279.png" height="300px" width="100%"></td>
+    	<td><img src="images/image-20230420100835279.png" height="300px" width="100%"></td>
     </tr>
     <tr>
-		<td><img src="image-20230420100856980.png" height="500px" width="100%"></td>
+		<td><img src="images/image-20230420100856980.png" height="500px" width="100%"></td>
     </tr>
         <tr>
-        <td><img src="image-20230420101103307.png" height="300px" width="100%"></td>
+        <td><img src="images/image-20230420101103307.png" height="300px" width="100%"></td>
     </tr>
 </table>
+
 
 
 
@@ -70,13 +72,14 @@
 
 <table>
     <tr>
-    	<td><img src="image-20230420100356828.png" width="100%"></td>
-        <td><img src="image-20230420100422961.png" width="100%"></td>
-        <td><img src="image-20230420100432587.png" width="100%"></td>
+    	<td><img src="images/image-20230420100356828.png" width="100%"></td>
+        <td><img src="images/image-20230420100422961.png" width="100%"></td>
+        <td><img src="images/image-20230420100432587.png" width="100%"></td>
     </tr>
     <tr>
-        <td><img src="image-20230420100412671.png" width="100%"></td>
-    	<td><img src="image-20230420100449369.png" width="100%"></td>
-        <td><img src="image-20230420100458019.png" width="100%"></td>
+        <td><img src="images/image-20230420100412671.png" width="100%"></td>
+    	<td><img src="images/image-20230420100449369.png" width="100%"></td>
+        <td><img src="images/image-20230420100458019.png" width="100%"></td>
     </tr>
 </table>
+
